@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Digital education system**
 
-- 🌱 I’m currently learning **JavaScript, Java, html, CSS,**
+- 🌱 I’m currently learning **JavaScript, Java, html, CSS,JavaScript,Node.js,Mysql**
 
 - 👯 I’m looking to collaborate on **Ai/ml project**
 
